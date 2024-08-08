@@ -1,5 +1,5 @@
 ---
-name: CAZE Common Issue Template
+name: CAZE Access control Request Template
 about: Common Issue Template for CAZE LABS github projects unless specified in the respective repo
 title: ''
 labels: ''
