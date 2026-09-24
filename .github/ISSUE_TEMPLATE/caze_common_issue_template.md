@@ -9,6 +9,10 @@ assignees: ''
 
 **Issue/Feature Description:**
 
+Test Case ID:
+
+Test Case Status: ☐ Existing test case ☐ Test case added after bug discovery
+
 **Tested Version in case of a bug  :**
 
 **Why this issue to fixed / feature is needed(give scenarios or use cases):**
