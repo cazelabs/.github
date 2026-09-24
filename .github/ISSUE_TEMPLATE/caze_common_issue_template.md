@@ -11,7 +11,9 @@ assignees: ''
 
 Test Case ID:
 
-Test Case Status: ☐ Existing test case ☐ Test case added after bug discovery
+**Test Case Status:**
+- [ ] Bug was identified through an existing test case
+- [ ] Test case was added after the bug was discovered
 
 **Tested Version in case of a bug  :**
 
